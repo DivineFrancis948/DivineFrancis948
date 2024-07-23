@@ -95,15 +95,7 @@
 
 
 
-<br/>
-    <h2 align="left"> 💻 My workspace:</h2><br/>
-    <p align='center'>
-  <br/>
-        <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=windows&logoColor=F0F0F0"/>
-        <img src="https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white"/>
- 
-  <img src="https://img.shields.io/badge/RAM-32GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-</p>
+
 
 
 <br />

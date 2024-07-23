@@ -113,7 +113,16 @@
                     src="https://github-readme-stats.vercel.app/api?username=divinefrancis948&theme=nightowl&show_icons=true&hide_border=false&count_private=true" />
                 <img alt="Aromal's Github Stats" height="160"
                     src="https://github-readme-stats.vercel.app/api/top-langs/?username=divinefrancis948&theme=nightowl&show_icons=true&hide_border=false&layout=compact" />
-            </p>  
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=divinefrancis948&show_icons=true&locale=en&layout=compact" alt="divinefrancis948" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divinefrancis948&show_icons=true&locale=en" alt="divinefrancis948" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divinefrancis948&" alt="divinefrancis948" /></p>
+
+            </p> 
+
+        
 <p align="center">
   <a href="#">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=divinefrancis948&theme=nightowl&hide_border=false"/>

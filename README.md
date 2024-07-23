@@ -28,11 +28,11 @@
             What I'm up to</h2>
         <ul>
             <li> 👨🏻‍💻 I'm currently working on Full Java Developer ♨️</li>
-            <li> 💬 Ask me about Linux <img align="center"
+<!--             <li> 💬 Ask me about Linux <img align="center"
                     src="https://emojis.slackmojis.com/emojis/images/1593980850/9611/linux.png?1593980850"
                     width="16" />, Backend Development <img align="center"
                     src="https://emojis.slackmojis.com/emojis/images/1493026598/2124/android.png?1493026598"
-                    width="16" /></li>
+                    width="16" /></li> -->
             <li> 🎓 I'm currently learning SpringBoot 🍃 & Angular 🅰<img align="center"
                     src="[https://emojis.slackmojis.com/emojis/images/1643514044/31/ruby.png?1643514044](https://emojis.slackmojis.com/emojis/images/1643514073/291/golang.png?1643514073)" width="16" /></li>
             <li>📫 How to reach me : <img align="center"

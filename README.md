@@ -27,7 +27,7 @@
                 src="https://emojis.slackmojis.com/emojis/images/1584726375/8272/blob-cool.gif?1584726375" width="28" />
             What I'm up to</h2>
         <ul>
-            <li> 👨🏻‍💻 I'm currently working on Full Java Developer ♨️</li>
+            <li> 👨🏻‍💻 I'm currently working as Full Stack Java Developer ♨️</li>
 <!--             <li> 💬 Ask me about Linux <img align="center"
                     src="https://emojis.slackmojis.com/emojis/images/1593980850/9611/linux.png?1593980850"
                     width="16" />, Backend Development <img align="center"

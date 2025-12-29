@@ -101,7 +101,7 @@
 <br />
 
 
-<div align="left">
+<!-- <div align="left">
         <h2><img width="30" align="center"
                 src="https://emojis.slackmojis.com/emojis/images/1471045834/769/bike.gif?1471045834" /> &nbsp;My Stats
         </h2>
@@ -127,11 +127,12 @@
 </p>
 
 
-</div>
+</div> -->
 
 
  
  
+
 
 
 
